@@ -1,0 +1,154 @@
+
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+    
+}
+.mains{
+    background-color: rgb(23, 199, 125);
+}
+.background-color-section{
+  
+    
+}
+
+header{
+    width: 80%;
+    margin: auto;
+    
+    
+    
+}
+.header-section{
+    float: left;
+    width: 50%;
+    padding-top: 20px;
+
+    
+}
+nav{
+    float: left;
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 210px;
+    
+    
+}
+nav ul{
+    
+    list-style: none;
+    
+}
+nav ul li{
+    display: inline;
+    margin: 10px;
+    
+   
+    
+}
+#lili{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 6px;
+}
+.second-main-section{
+    width: 80%;
+    margin: auto;
+    clear: left;
+    padding-top: 90px;
+    
+}
+.inner-second-main-section{
+    width: 50%;
+    float: left;
+}
+footer{
+    width: 100%;
+    clear: left;
+   
+    
+}
+.inner-boys1{
+    padding-bottom: 100px;
+    padding-right: 200px;
+}
+.inner-boys2{
+    padding-bottom: 100px;
+    padding-right: 300px;
+}
+.inner-boys3{
+    padding-bottom: 100px;
+    padding-right: 200px;
+}
+.image-section{
+    width: 50%;
+    float: left;
+    padding-left: 140px;
+}
+.solid{
+    font-size: 50px;
+}
+.uncle-lee{
+    list-style: none;
+}
+.uncle-li1{
+    display: inline;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 6px;
+    background-color: black;
+    color: white;
+}
+.uncle-li2{
+    display: inline;
+    margin: 5px;
+}
+.footer-main-section{
+    width: 80%;
+    margin: auto;
+    
+}
+.landlord{
+    width: 50%;
+    float: left;
+}
+.footer-section1{
+    width: 50%;
+    float: left;
+    
+}
+.footer-section2{
+    width: 50%;
+    float: left;
+    
+}
+#footer-id{
+    font-size: 40px;
+}
+.footer-section3{
+    width: 50%;
+    float: left;
+}
+.boy{
+  
+    
+    padding-bottom: 20px;
+
+}
+.boy1{
+    
+    
+}

@@ -1,0 +1,172 @@
+
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+html, body {height: 100%;}
+
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+    
+}
+.first-main-section{
+    width: 100%;
+}
+.first-section{
+    width: 50%;
+    float: left;
+    
+}
+
+header{
+    width: 100%;
+    
+    
+}
+nav{
+    float: left;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+    background-color: #6f8e90;
+    
+    
+}
+nav ul{
+    
+    list-style: none;
+    color: #141313;
+    
+}
+nav ul li{
+    display: inline;
+    margin: 10px;
+}
+.image-section{
+    width: 100%;
+
+}
+.direct-image-section{
+    width: 62%;
+    float: left;
+    
+ 
+}
+.symbol-section{
+    width: 38%;
+    float: left;
+    background-color: #6f8e90;
+    padding-left: 130px;
+    padding-top: 120px;
+    padding-bottom: 231px;
+
+
+}
+
+.no{
+    font-size: 25px;
+    padding-left: 5px;
+    color: white;
+}
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(7, 7, 7);
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+  }
+.second-section{
+    width: 50%;
+    float: left;
+    background-color: #536668;
+}
+.second-section-section{
+    width: 100%;
+   
+}
+.loading{
+    width: 50%;
+    float: left;
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.p{
+    border: 1px solid gray;
+    width: 120px;
+    text-align: justify;
+    padding: 5px;
+    color: white;
+}
+.loader{
+    width: 50%;
+    float: left;
+    padding-top: 20px;
+    padding-left: 340px;
+}
+.interior-section{
+    clear: left;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+    color: white;
+}
+.photo-section{
+    padding-top: 60px;
+    width: 90%;
+    margin: auto;
+    padding-left: 180px;
+    
+}
+.flex-item{
+    float: left;
+    margin: 1px;
+    border-right: 2px solid white;
+    padding: 10px;
+    
+   
+   
+}
+.flex-items{
+    float: left;
+    margin: 1px;
+    padding: 10px;
+    
+   
+   
+}
+.ginger{
+    padding-left: 20px;
+    color: white;
+}
+.rounded{
+    border-radius: 100%;
+}
+.section-p{
+    clear: left;
+    padding-top: 5%;
+    text-align: center;
+    padding-left: 330px;
+}
+.babe{
+    border: 2px solid gray;
+    width: 150px;
+    padding: 5px;
+    color: white;
+    background-color: gray;
+}
+.boss{
+    padding-top: 10%;
+    padding-left: 350px;
+    padding-bottom: 131px;
+}
+.boy{
+    display: inline;
+}

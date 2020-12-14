@@ -1,0 +1,33 @@
+
+span{
+    color: #ffffff;
+}
+.bold{
+    font-weight: 500;
+    font-size: 50px;
+}
+p{
+    color: #ffffff;
+}
+.position{
+    position: fixed;
+    left: 20;
+}
+.fa-amazon{
+    color: white;
+}
+.logo{
+    margin: 8px;
+}
+.fa-dropbox{
+    color: white;
+}
+.fa-facebook{
+    color: white;
+}
+.fa-twitter{
+    color: white;
+}
+.fa-apple{
+    color: white;
+}
